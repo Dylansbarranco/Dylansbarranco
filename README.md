@@ -71,6 +71,8 @@
 </a>
 </p>
 
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
 <p align="center" style="font-size:18px; color:#7B68EE; font-style: italic; font-weight: bold; line-height: 1.6;">
   "El código es el arte de transformar ideas en realidad. Sigue aprendiendo, sigue creando y nunca dejes de innovar.<br>  
   ¡Nos vemos en el camino, devs! 🚀💻"
