@@ -13,7 +13,7 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylansbarranco&layout=compact&hide=TSQL&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylansbarranco&layout=compact&hide=PHP,C%,C++&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=Dylansbarranco&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" width="400">
 </div>
 
