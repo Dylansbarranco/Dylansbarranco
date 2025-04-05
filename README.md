@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B39A5&height=120&section=header"/>
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7B68EE&size=30&center=true&vCenter=true&width=600&lines=Hola,+Soy+Dilan+Barranco!;Tengo+23+a%C3%B1os;Desarrollador+Aut%C3%B3nomo;Java,+Spring+Boot+y+Web+Dev!;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;Bienvenido+a+mi+perfil!&pause=1000">
 </h1>
