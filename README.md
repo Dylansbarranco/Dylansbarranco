@@ -35,9 +35,6 @@
 
 <img width=100% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><b>Contador de visitas</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BDylansbarranco%7D/count.svg" alt="contador de visitas"/></p>
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7B68EE&size=25&center=true&vCenter=true&width=600&lines=🎯+Pasiones;&pause=1000">
 </h2>
