@@ -43,10 +43,12 @@
   <div style="text-align: justify; min-width: 200px;">
     <p>🏂 Patinaje</p>
     <p>🏃 Atletismo</p>
+    <p>🥋 Taekwondo</p>
   </div>
   <div style="text-align: justify; min-width: 250px;">
     <p>🏋️‍♂️ Deportes en general</p>
     <p>🏢 Emprendimiento</p>
+    
   </div>
 </div>
 
