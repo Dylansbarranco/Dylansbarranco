@@ -55,7 +55,7 @@
 </h2>
 
 <p align="center">
-<a href="https://www.instagram.com/dylans_barranco/">
+<a href="https://www.instagram.com/dilan_barranco/">
     <img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/dilan-andres-barranco-hernandez-51023a186/">
